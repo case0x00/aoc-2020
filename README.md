@@ -2,4 +2,4 @@
 
 https://adventofcode.com/
 
-
+target langs: rust, java, go, C++, C, python
