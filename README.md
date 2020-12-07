@@ -4,16 +4,14 @@ https://adventofcode.com/
 
 <pre>
 target langs:
-- rust (01, 09, 17, 25)
-- java (02, 10, 18)
-- go (03, 11, 19)
-- javascript (04, 12, 20)
-- julia (05, 13, 21)
-- C (06, 14, 22)
-- python (07, 15, 23)
-- C++ (08, 16, 24)
+- rust (01, 08, 15, 16, 17)
+- java (02, 09, 18, 19, 20)
+- go (03, 10, 21, 22, 23)
+- javascript (04, 11)
+- julia (05, 12, 24, 25)
+- C (06, 13)
+- C++ (07, 14)
 
-maybe: ruby, typescript
-maybe not: python
+
 </pre>
 
