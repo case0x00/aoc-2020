@@ -60,7 +60,7 @@ int part2(char *group) {
     else {
         for (i=0; i<26; i++) {
             // when every person said yes to a question
-            if (freq[i] == people && people != 1) count++;
+            if (freq[i] == people) count++;
         }
     }
     return count;
@@ -74,6 +74,7 @@ int main(int argc, char *argv[]) {
     int total = 0;
 
     fp = fopen("input.txt", "r");
+    
     if (fp == NULL) {
         perror("error in opening file");
         return -1;
