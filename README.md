@@ -2,16 +2,19 @@
 
 https://adventofcode.com/
 
+the language used is pretty random but biased towards languages I want to improve on.
+
+
 <pre>
 target langs:
-- rust (01, 08, 15, 16, 17)
-- java (02, 09, 18, 19, 20)
-- go (03, 10, 21, 22, 23)
-- javascript (04, 11)
-- julia (05, 12, 24, 25)
-- C (06, 13)
-- C++ (07, 14)
+- rust (01, 08, 14, 18, 22, 25)
+- java (02, 09, 15, 19)
+- go (03, 10, 16, 20, 23)
+- javascript (04)
+- julia (05, 11, 17, 21, 24)
+- C (06, 12)
+- C++ (07, 13)
+
 
 
 </pre>
-
