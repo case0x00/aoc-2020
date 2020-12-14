@@ -51,7 +51,6 @@ func part1(adapters []int) int {
 }
 
 // part 2
-// 43406276662336
 func part2(adapters []int) uint64 {
 
 	sort.Ints(adapters)
